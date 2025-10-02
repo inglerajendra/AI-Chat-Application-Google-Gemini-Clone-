@@ -178,7 +178,7 @@
   line-height: 1.8;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   .main-bottom input {
     flex: none;
     width: 150px;
